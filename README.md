@@ -3,9 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=pbj0922&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=pbj0922&layout=compact&theme=dracula)
 
-## 🙋‍♂️ Personal Info
+## 🙋‍♂️ About Me
 - Bumjin Park
-- qkrqjawls0922@gmail.com
+- qkrqjawls0922@gmail.com <a href="mailto:qkrqjawls0922@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ## 🔨 Technology Stacks
 - Frontend : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
