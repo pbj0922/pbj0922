@@ -5,8 +5,8 @@
 
 ## 🙋‍♂️ About Me
 - Bumjin Park
-- qkrqjawls0922@gmail.com <a href="mailto:qkrqjawls0922@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qkrqjawls0922@gmail.com)](qkrqjawls0922@gmail.com)
+- <a href="mailto:qkrqjawls0922@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+- <a href="https://velog.io/@bpark14" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 ## 🔨 Technology Stacks
 - Frontend : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
