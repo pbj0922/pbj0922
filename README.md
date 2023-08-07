@@ -15,3 +15,6 @@
 <span><img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next-dot-js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=next-dot-js&logoColor=white"/></span><br/>
+
+## ✏️ Blog For Learning - <a href="https://velog.io/@bpark14">Here</a>
+[![image](https://i.namu.wiki/i/zhOdlG3ReD34OVqnA7D4xec7Y4p0VL035Sr0uwrigDsvdAqUfoVmQ-jRhPuq3ZrtxekZrzM_dkZGW43pKoslJg.svg)](https://velog.io/@bpark14)
