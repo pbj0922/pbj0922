@@ -17,4 +17,4 @@
 <span><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=next-dot-js&logoColor=white"/></span><br/>
 
 ## ✏️ Blog For Learning - <a href="https://velog.io/@bpark14">Here</a>
-[![image](https://i.namu.wiki/i/zhOdlG3ReD34OVqnA7D4xec7Y4p0VL035Sr0uwrigDsvdAqUfoVmQ-jRhPuq3ZrtxekZrzM_dkZGW43pKoslJg.svg)](https://velog.io/@bpark14)
+[![image](https://velog.velcdn.com/images/chlwogur2/post/8ef6469e-14a5-42cf-80b6-e30291700cf1/image.png)](https://velog.io/@bpark14)
