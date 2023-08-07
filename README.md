@@ -17,7 +17,7 @@
 <span><img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next-dot-js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=next-dot-js&logoColor=white"/></span><br/>
-- <span><img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/></span>
+- <span><img src="https://img.shields.io/badge/Solidity-D1AB66?style=flat&logo=solidity&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Friebase-FFCA28?style=flat&logo=firebase&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></span>
