@@ -22,3 +22,7 @@
 <span><img src="https://img.shields.io/badge/Friebase-FFCA28?style=flat&logo=firebase&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/></span>
+- <span><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=solidity&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=solidity&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=solidity&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C#-239120?style=flat&logo=solidity&logoColor=white"/></span>
