@@ -24,5 +24,5 @@
 <span><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/></span>
 - <span><img src="https://img.shields.io/badge/Unity-181717?style=flat&logo=unity&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/C#-239120?style=flat&logo=C#&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C#-239120?style=flat&logo=csharp&logoColor=white"/></span>
